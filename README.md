@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bee777
 - 👀 I’m interested in coding, structure and blokchain, etc.
-- 🌱 I’m currently learning server infrasture, blockchain
+- 🌱 I'm currently learning server infrastructure, blockchain
 - 💞️ I’m looking to collaborate on blockchain
 
 <!---
