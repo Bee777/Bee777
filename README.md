@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bee777
 - 👀 I’m interested in coding, structure and blokchain, etc.
-- 🌱 I'm currently learning server infrastructure, blockchain
-- 💞️ I’m looking to collaborate on blockchain
+- 🌱 I'm currently learning server and blockchain infrastructure.
+- 💞️ I’m looking to collaborate on blockchain project.
 
 <!---
 Bee777/Bee777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
