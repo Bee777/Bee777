@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bee777
-- 👀 I’m interested in coding, structure and blokchain, etc.
+- 👀 I’m interested in coding, structure and blockchain, etc.
 - 🌱 I'm currently learning server and blockchain infrastructure.
 - 💞️ I’m looking to collaborate on blockchain project.
 
